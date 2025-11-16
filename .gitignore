@@ -50,4 +50,7 @@ local_settings.py
 .DS_Store
 Thumbs.db
 
-.generate_mcp_yaml.py
+generate_mcp_yaml.py
+.roo/*
+.roomodes/*
+install_rooflow.sh
