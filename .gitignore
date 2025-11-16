@@ -51,6 +51,6 @@ local_settings.py
 Thumbs.db
 
 generate_mcp_yaml.py
-.roo
-.roomodes
+.roo/*
+.roomodes/*
 install_rooflow.sh
