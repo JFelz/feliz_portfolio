@@ -1,0 +1,5 @@
+@import "tailwindcss";
+:root {
+  /* Replace with a valid Tailwind color, e.g., 'bg-white' or 'primary' from your config */
+  --bg-primary: #171718; /* Example: Tailwind 'sky-500'. Update as needed. */
+}
